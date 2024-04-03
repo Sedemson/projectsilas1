@@ -30,8 +30,8 @@ Data: The primary data used for this project is the "KEY RESUME ATTRIBUTES IMPAC
 3. Creation of caluated Table(Date_Table), Caculated Column, Calculated Measure
 
 ### Project Reccomendations
-1. After carefully analysing all resume attributes these are the possible reccomendations i sugesst
-   A. Applicant should focus on building or acquring some computer or special skills because majority of the callbacks were those with these skills
+1. After carefully analysing all resume attributes these are the possible reccomendations i sugesst:
+A.  Applicant should focus on building or acquring some computer or special skills because majority of the callbacks were those with these skills
    B. Race and Gender has nothing to do with the callbacks, however Females with some sort of computer or special skills stand a high chance than their male counterparts
    C. The overall quality of the resume also impacts higer callbacks. For examples, resumes with professional emails, properly arranged resumes and resumes with the right font and style
    D. Applicants with fewer years of experience should at least possess some special skill or at least have a four year degree in the feild they are applying for
