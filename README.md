@@ -1,11 +1,11 @@
-# RESUME ATTRIBUTE JOB CALLBACK REPORT
+# RESUME ATTRIBUTES IMPACTING JOB CALLBACK REPORT
 ## Table of Content
 
 - [Project  Overview](#project-overview)
-- [Source of Data](#source-of-dta)
+- [Source of Data](#source-of-data)
 - [Tools Used for the project](#tools-used-for-the-project)
-- [Data Cleaning and Prepartion Process](#data-cleaning-and-prepartion-process)
-- [Data Exploration and Analysis (EDA)](#data-exploration-and-analysis-(EDA))
+- [Data Cleaning and Prepartion Process (Excel)](#data-cleaning-and-prepartion-process-(Excel))
+- [Reports Creation process  (Power BI) ](#Reports-Creation-process-(EDA))
 - [Reccomendtion](#recommendtion)
 ## Project  Overview
 
@@ -17,11 +17,25 @@ Data: The primary data used for this project is the "KEY RESUME ATTRIBUTES IMPAC
 ### Tools Used for the project
 
 - Excel ( I used Excel for data cleaning)
-- Power BI  ( Data Analysis)
 - PowerBI (Creating Reports for the project)
 
-### Data Cleaning and Prepartion Process
+### Data Cleaning and Prepartion Process (EXCEL)
 1. Data Loading and Inspection
 2. Handling missing values
 3. Data cleaning and formating
+
+### Reports Creation process  (Power BI)
+1. Data Loading
+2. Defining Relations
+3. Creation of caluated Table(Date_Table), Caculated Column, Calculated Measure
+
+### Project Reccomendations
+1. After carefully analysing all resume attributes these are the possible reccomendations i sugesst
+   A. Applicant should focus on building or acquring some computer or special skills because majority of the callbacks were those with these skills
+   B. Race and Gender has nothing to do with the callbacks, however Females with some sort of computer or special skills stand a high chance than their male counterparts
+   C. The overall quality of the resume also impacts higer callbacks. For examples, resumes with professional emails, properly arranged resumes and resumes with the right font and style
+   D. Applicants with fewer years of experience should at least possess some special skill or at least have a four year degree in the feild they are applying for
+   E. Applicants are also advised to apply for jobs more often in the private sector since they employes more
+
+
 
